@@ -81,4 +81,17 @@ Hi, I'm Rakibul. Obtained bachelor of science degree in computer science & engin
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 --
+<br>
+
+## Recent Projects:
+- [Food Delivery App : (React, Redux, Node & express, REST API)](https://github.com/Rakibul-Islam-GitHub/food-delivery-app-MERN-Redux)
+- [Global Store : Ecommerce app (React, Node & Express, Firebase, Stripe)](https://github.com/Rakibul-Islam-GitHub/global-store-mern-project)
+- [Course Registration System : vanilla javascript app](https://github.com/Rakibul-Islam-GitHub/javascript-A-to-Z/tree/main/DOM/University%20Course%20Registration%20System)
+- [Agriculture Market : Ecommerce app Nodejs version](https://github.com/Rakibul-Islam-GitHub/agriculture-market-nodeJs-project)
+- [Agriculture Market : Ecommerce app Laravel version](https://github.com/Rakibul-Islam-GitHub/agro-commerce-Laravel-project)
+
+<br>
+
+![profile](https://komarev.com/ghpvc/?username=Rakibul-Islam-GitHub&color=0e75b6&style=flat) 
+
 
