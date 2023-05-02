@@ -5,9 +5,9 @@ Hi, I'm Rakibul. Obtained bachelor of science degree in computer science & engin
 ### 📝 `Some Interesting Facts`
 
 - ✔️ **Full stack developer** from Bangladesh.
-- 🔨 Currently working on **personal project** (microservice app with nextjs, nodejs and express)
-- 🌱 I’m currently learning nextjs & devops things.
-- 💬 Ask me about react, node, express, javascript(ES6), docker and kubernetes.
+- 🔨 Currently working on different client's projects **As a freelancer** 
+- 🌱 I’m also working on some **research paper** in Machine Learning & Artificial Intelligence.
+- 💬 Ask me about react, node, express, javascript(ES6), Machine Learning, publishing research article.
 - 💡 Like to explore new technologies and modern frameworks.
 ---
 
@@ -83,7 +83,7 @@ Hi, I'm Rakibul. Obtained bachelor of science degree in computer science & engin
 --
 <br>
 
-## Recent Projects:
+## My Pet Projects:
 - [Food Delivery App : (React, Redux, Node & express, REST API)](https://github.com/Rakibul-Islam-GitHub/food-delivery-app-MERN-Redux)
 - [Global Store : Ecommerce app (React, Node & Express, Firebase, Stripe)](https://github.com/Rakibul-Islam-GitHub/global-store-mern-project)
 - [MyTask : Mobile app using react native](https://github.com/Rakibul-Islam-GitHub/MyTask-mobile-app-react-native)
