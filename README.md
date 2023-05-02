@@ -5,9 +5,9 @@ Hi, I'm Rakibul. Obtained bachelor of science degree in computer science & engin
 ### 📝 `Some Interesting Facts`
 
 - ✔️ **Full stack developer** from Bangladesh.
-- 🔨 Currently working on different client's projects **As a freelancer** 
+- 🔨 Currently working **As a freelancer** on different client's projects around the world.
 - 🌱 I’m also working on some **research paper** in Machine Learning & Artificial Intelligence.
-- 💬 Ask me about react, node, express, javascript(ES6), Machine Learning, publishing research article.
+- 💬 Ask me about react, node, express, javascript(ES6), Machine Learning, publishing research article etc.
 - 💡 Like to explore new technologies and modern frameworks.
 ---
 
